@@ -1,23 +1,23 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Globex Corporation',
-        jobtitle: 'Frontend Developer',
-        startYear: '2018',
-        endYear: '2019'
+        company: 'Propath',
+        jobtitle: 'Lab Assistant',
+        startYear: '2020',
+        endYear: '2021'
     },
     {
         id: 2,
-        company: 'Vehement Capital Partners',
-        jobtitle: 'Backend Developer',
-        startYear: '2019',
+        company: 'Lionheart Children Academy',
+        jobtitle: 'Teacher',
+        startYear: '2017',
         endYear: '2020'
     },
     {
         id: 3,
-        company: 'Wonka Industries',
-        jobtitle: 'Marketing',
-        startYear: '2020',
-        endYear: 'Present'
+        company: 'Cherish Home Health Care',
+        jobtitle: 'Medical Insurance Claims Specialist',
+        startYear: '2015',
+        endYear: '2020'
     },
 ]
