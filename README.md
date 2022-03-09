@@ -16,8 +16,7 @@
 - [Upcoming Features](#upcoming-features-construction)
 - [Contributors](#contributors-man_technologistwoman_technologist)
 
-<br /><br />
-
+<br />
 
 # Sections :bookmark:
 - HOME
@@ -33,7 +32,7 @@
 - BLOG
 - CONTACTS 
 
-<br /><br />
+<br />
 
 # Demo :movie_camera:
 ![](https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/demo.gif)
@@ -41,17 +40,15 @@
 
 <br />
 
-
 #### Make sure you have the latest version of both Git and Node on your computer.
 
 ```
 node --version
 git --version
 ```
-
 <br />
 
-# Getting Started :dart:
+# Getting Started
 ### Fork and Clone the repo
 
 #### To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
