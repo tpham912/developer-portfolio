@@ -234,13 +234,11 @@ yarn start
 | slick-carousel |
 | validator |
 
-
 <br />
 
 # APIs Used
 - [SheetDB](https://sheetdb.io/)
 
- 
 <br />
 
 # Fonts and Images
