@@ -1,6 +1,7 @@
 import png from '../assets/png/cs.png'
 import dsa from '../assets/png/DSA.png'
 import w31 from '../assets/png/w31.png'
+import grok from '../assets/jpeg/grok.jpeg'
 
 export const blogData = [
     {
@@ -26,6 +27,14 @@ export const blogData = [
         date: 'March 08, 2022',
         image: w31,
         url: 'https://www.w3schools.com/'
+    },
+    {
+        id: 4,
+        title: 'GROKKING THE CODING INTERVIEW',
+        description: 'Master the coding interview by learning coding problem patterns.',
+        date: 'March 09, 2022',
+        image: grok,
+        url: 'https://www.educative.io/courses/grokking-the-coding-interview'
     },
    
 ]
